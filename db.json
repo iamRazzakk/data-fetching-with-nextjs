@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Enchanting Forest",
+      "description": "Discover the mystical charm of an enchanted forest, where ancient trees whisper secrets and magical creatures dance under the moonlight. Join us on a journey into nature's wonderland.",
+      "like_count": 150
+    },
+    {
+      "id": 2,
+      "title": "Tech Innovation Hub",
+      "description": "Dive into the cutting-edge world of technology innovation. Explore groundbreaking inventions, futuristic concepts, and the latest trends shaping the digital landscape.",
+      "like_count": 98
+    },
+    {
+      "id": 3,
+      "title": "Epic Space Odyssey",
+      "description": "Embark on a cosmic adventure through the vastness of space. Witness celestial wonders, encounter alien worlds, and experience the thrill of interstellar exploration.",
+      "like_count": 120
+    },
+    {
+      "id": 4,
+      "title": "Artistic Expression Gallery",
+      "description": "Immerse yourself in a world of creativity and artistic expression. From breathtaking paintings to avant-garde sculptures, experience the beauty that transcends traditional boundaries.",
+      "like_count": 80
+    },
+    {
+      "id": 5,
+      "title": "Culinary Delights",
+      "description": "Savor the exquisite flavors of a culinary journey. Indulge in gourmet delights, explore diverse cuisines, and elevate your taste buds to new heights of gastronomic pleasure.",
+      "like_count": 110
+    },
+    {
+      "id": 6,
+      "title": "Mind-bending Puzzles",
+      "description": "Challenge your intellect with mind-bending puzzles and brainteasers. Navigate through intricate riddles and unlock the secrets that lie within. Are you ready for the ultimate mental workout?",
+      "like_count": 65
+    }
+  ]
+}
